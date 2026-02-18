@@ -1,123 +1,149 @@
-# 👋 Olá! Eu sou o Daniel!
+👋 Olá! Eu sou o Daniel
 
-### Engenharia de Software • Backend • Fullstack • Dados
+💻 Backend • Fullstack • Dados
 
-Sou desenvolvedor com formação em **Engenharia de Software pela 42SP**, com experiência prática em **DataOps** durante estágio na **Natura**, atuando na construção e manutenção de **pipelines de dados no Databricks**, utilizando **Python e SQL** para ingestão, transformação e integração de dados em ambiente corporativo.
+Sou desenvolvedor com formação em Engenharia de Software pela 42SP, com experiência prática em DataOps durante estágio na Natura, atuando na construção e manutenção de pipelines de dados no Databricks com Python e SQL.
 
-Possuo sólida base em **lógica de programação, algoritmos e estruturas de dados**, com experiência em **C, Python e SQL**, além de conhecimentos em **desenvolvimento Web (HTML, CSS e JavaScript)**, com foco em backend.
+Minha trajetória inclui a transição do futebol profissional para a tecnologia, experiência que fortaleceu disciplina, resiliência e trabalho em equipe.
 
-Minha trajetória inclui a transição do **futebol profissional para a tecnologia**, experiência que fortaleceu disciplina, resiliência, foco em resultados e atuação em equipes de alta performance.
+📍 Brasil
+💼 Aberto a oportunidades: Estágio | Júnior
+🎯 Interesse em: Backend • Fullstack • Engenharia de Dados
 
-📍 Brasil  
-💼 Aberto a oportunidades: **Estágio | Júnior**  
-🎯 Áreas de interesse: **Backend • Fullstack • Dados**
+🚀 Tech Stack
+👨‍💻 Linguagens
 
----
+🐍 Python
 
-## 🚀 Stack Tecnológica
+🗄️ SQL
 
-**Linguagens**
-- Python
-- SQL
-- C
+⚙️ C
 
-**Dados**
-- Databricks  
-- Pipelines ETL / ELT  
-- Ingestão, transformação e integração de dados  
+📊 Dados
 
-**Web (base)**
-- HTML
-- CSS
-- JavaScript
+Databricks
 
-**Ferramentas**
-- Git & GitHub
-- Linux
-- Ambiente Unix (42SP)
+ETL / ELT
 
----
+Ingestão, transformação e integração de dados
 
-## 📌 Projetos em Destaque
+🌐 Web
 
-### 🔹 MiniShell — 42SP
-🔗 https://github.com/danieldsc123/minishell42sp
+HTML
 
-Implementação de um **shell Unix simplificado**, desenvolvido em C, com foco em sistemas operacionais, processos e gerenciamento de memória.
+CSS
 
-**Principais conceitos:**
-- Processos e `fork`
-- Pipes e redirecionamentos
-- Execução de comandos
-- Manipulação de sinais
-- Parsing de comandos
-- Gerenciamento de memória
+JavaScript
 
-**Tecnologias:**  
-`C` • `Linux` • `Unix` • `Makefile`
+⚙️ Ferramentas
 
----
+Git & GitHub
 
-### 🔹 Simulador de Custos de Sustentação de Workflows
+Linux / Unix
+
+Docker
+
+📌 Projeto Destaque
+💰 Simulador de Custos de Sustentação de Workflows
+
 🔗 https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
-Aplicação web desenvolvida para **simular o custo mensal de sustentação de workflows**, considerando parâmetros operacionais utilizados em ambientes corporativos.
+Aplicação Full Stack criada para simular o custo mensal de sustentação de workflows em cenários corporativos.
 
-O simulador permite estimar o impacto financeiro de diferentes cenários de suporte, variando fatores como SLA, plantão, cobertura, complexidade do processo e taxa de assertividade.
+O projeto evolui um simulador originalmente apenas frontend para uma solução completa com API, banco de dados, histórico e testes automatizados.
 
-**Principais funcionalidades:**
-- Simulação de custos de sustentação de workflows
-- Cálculo automático de valor base por tipo de processo
-- Aplicação de multiplicadores de SLA (8h, 6h, 4h, 2h)
-- Cálculo de adicionais por:
-  - Plantão
-  - Cobertura operacional
-  - Complexidade do processo
-  - Complexidade da validação
-  - Taxa de assertividade (falhas)
-- Cálculo do custo mensal total por quantidade de workflows
-- Geração de tabela dinâmica com múltiplos cenários
-- Exportação dos resultados em formato **CSV** (Google Planilhas / Excel)
+🧩 Funcionalidades
 
-**Tecnologias:**  
-HTML • CSS • JavaScript (Vanilla)
+Backend
 
----
+API REST com FastAPI
 
-### 🔹 Projeto de Engenharia de Dados *(em desenvolvimento)*
-🚧 Em breve
+Persistência em SQLite
 
-Pipeline completo de dados com:
-- Ingestão
-- Transformação
-- Modelagem
-- Qualidade de dados
-- Consultas analíticas
+Histórico de simulações
 
-**Tecnologias previstas:**  
+Exclusão de simulações
+
+Testes automatizados com Pytest
+
+Frontend
+
+Interface interativa em HTML, CSS e JavaScript
+
+Integração completa Frontend ↔ Backend
+
+Tabela dinâmica com múltiplas simulações
+
+Exportação em CSV (Excel / Google Sheets)
+
+Infra
+
+Ambiente containerizado com Docker
+
+Estrutura preparada para deploy
+
+🧠 O que este projeto demonstra
+
+Desenvolvimento de APIs REST
+
+Integração frontend + backend
+
+Persistência de dados
+
+Testes automatizados
+
+Containerização com Docker
+
+Organização de projeto full stack
+
+🔮 Próximos passos
+
+Dashboard com métricas
+
+Deploy em cloud
+
+Integração com Databricks
+
+🖥️ Outros Projetos
+🐚 MiniShell — 42SP
+
+🔗 https://github.com/danieldsc123/minishell42sp
+
+Implementação de um shell Unix simplificado em C.
+
+Principais conceitos:
+
+Processos e fork
+
+Pipes e redirecionamentos
+
+Parsing de comandos
+
+Gerenciamento de memória
+
+📊 Projeto de Engenharia de Dados (em desenvolvimento) 🚧
+
+Pipeline completo com ingestão, transformação e modelagem de dados.
+
+Tecnologias previstas:
 Python • SQL • Databricks • ETL
 
----
+📚 Estudos Atuais
 
-## 🧠 Estudos Atuais
+Engenharia de Dados
 
-- Boas práticas em Python
-- Engenharia de Dados
-- Modelagem de dados
-- SQL
-- Arquitetura de pipelines
-- Qualidade e governança de dados
+SQL avançado
 
----
+Arquitetura de pipelines
 
-## 📫 Contato
+Boas práticas em Python
 
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/daniel-dscarvalho/
+📫 Contato
 
-- 📧 Email  
-  danielsiva.carvalho00@gmail.com
+💼 LinkedIn
+👉 https://www.linkedin.com/in/daniel-dscarvalho/
 
----
+📧 Email
+👉 danielsiva.carvalho00@gmail.com
 
-⭐ *Sempre em evolução, buscando construir soluções eficientes, escaláveis e bem estruturadas.*
+⭐ Sempre evoluindo e construindo soluções eficientes e escaláveis.
