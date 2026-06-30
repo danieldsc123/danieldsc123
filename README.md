@@ -1,105 +1,121 @@
-<h1 align="center">👋 Olá! Eu sou o Daniel</h1>
+<div align="center">
 
-<p align="center">
-Backend • Fullstack • Dados
-</p>
+# 👋 Olá, eu sou o Daniel Carvalho
+
+### Backend Developer | Data Engineering
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dscarvalho/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsiva.carvalho00@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/danieldsc123?style=for-the-badge)](https://github.com/danieldsc123)
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor com formação em **Engenharia de Software pela 42SP**, com experiência prática em **DataOps durante estágio na Natura**, atuando na construção e manutenção de **pipelines de dados no Databricks** com **Python e SQL**.
+Sou estudante de **Ciência da Computação** e aluno da **42 São Paulo**, com foco em **Backend Development** e **Data Engineering**.
 
-Minha trajetória inclui a transição do **futebol profissional para a tecnologia**, experiência que fortaleceu disciplina, resiliência e trabalho em equipe.
+Atuei como estagiário de **DataOps na Natura**, trabalhando com pipelines de dados, Databricks, Python e SQL para suportar processos corporativos.
 
-📍 Brasil  
-💼 Aberto a oportunidades: **Estágio | Júnior**  
-🎯 Interesse em: **Backend • Fullstack • Engenharia de Dados**
+Antes da tecnologia, construí minha trajetória no futebol profissional, experiência que fortaleceu disciplina, resiliência e trabalho em equipe — características que levo para todos os projetos.
+
+- 📍 Brasil
+- 💼 Aberto a oportunidades de **Estágio** e **Desenvolvedor Backend Júnior**
+- 🎯 Interesse em Backend Development e Data Engineering
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Linguagens
-- Python  
-- SQL  
-- C  
 
-### Dados
-- Databricks  
-- ETL / ELT  
-- Ingestão e transformação de dados  
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
 
-### Web
-- HTML  
-- CSS  
-- JavaScript  
+**Banco de Dados**
 
-### Ferramentas
-- Git & GitHub  
-- Linux / Unix  
-- Docker  
+- SQL
+- SQLite
 
----
+### Backend & Dados
 
-## 📌 Projeto Destaque
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
+</p>
 
-### 💰 Simulador de Custos de Sustentação de Workflows  
-🔗 https://github.com/danieldsc123/Simulador-de-custos-de-workflows
+**Também utilizo**
 
-Aplicação **Full Stack** criada para simular o custo mensal de sustentação de workflows em cenários corporativos.
-
-O projeto evolui um simulador originalmente apenas frontend para uma solução completa com **API, banco de dados, histórico e testes automatizados**.
-
-#### Backend
-- API REST com FastAPI  
-- Persistência em SQLite  
-- Histórico de simulações  
-- Exclusão de simulações  
-- Testes automatizados com Pytest  
-
-#### Frontend
-- Interface interativa em HTML, CSS e JavaScript  
-- Integração completa Frontend ↔ Backend  
-- Tabela dinâmica com múltiplas simulações  
-- Exportação em CSV  
-
-#### Infra
-- Ambiente containerizado com Docker  
-
-#### Próximos passos
-- Dashboard com métricas  
-- Deploy em cloud  
-- Integração com Databricks  
+- Databricks
+- ETL / ELT
+- REST APIs
+- Pytest
 
 ---
 
-## 🖥️ Outros Projetos
+## 📌 Projeto em Destaque
 
-### 🐚 MiniShell — 42SP  
-🔗 https://github.com/danieldsc123/minishell42sp
+### 💰 Simulador de Custos de Sustentação de Workflows
 
-Shell Unix simplificado em C com:
-- Processos e fork  
-- Pipes e redirecionamentos  
-- Parsing de comandos  
-- Gerenciamento de memória  
+Aplicação backend desenvolvida para simular custos de sustentação de workflows corporativos.
+
+**Principais funcionalidades**
+
+- API REST com FastAPI
+- Persistência em SQLite
+- Histórico de simulações
+- Exportação CSV
+- Testes automatizados com Pytest
+- Containerização com Docker
+
+🔗 **Repositório**
+
+https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ---
 
-## 📚 Estudos atuais
+## ⭐ Repositórios em Destaque
 
-- Engenharia de Dados  
-- SQL avançado  
-- Arquitetura de pipelines  
-- Boas práticas em Python  
+| Repositório | Descrição |
+|------------|-----------|
+| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend para simulação de custos utilizando FastAPI, SQLite, Docker e testes automatizados. |
+| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)** | Desafio técnico utilizando Python, Supabase e Z-API para envio automatizado de mensagens. |
+| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)** | Shell Unix desenvolvida em C, com parsing, pipes, redirecionamentos e execução de comandos. |
+| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)** | Biblioteca própria em C utilizada como base para os projetos da 42 São Paulo. |
+| 📄 **[gnl](https://github.com/danieldsc123/gnl)** | Implementação da função Get Next Line com foco em gerenciamento de memória e file descriptors. |
+| 🔄 **Push Swap** *(em desenvolvimento)* | Algoritmos de ordenação utilizando duas pilhas com foco em estruturas de dados e otimização. |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danieldsc123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsc123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldsc123&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/danieldsc123/danieldsc123/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-💼 LinkedIn  
-https://www.linkedin.com/in/daniel-dscarvalho/
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/daniel-dscarvalho/
 
-📧 Email  
-danielsiva.carvalho00@gmail.com
+- 📧 Email  
+  danielsiva.carvalho00@gmail.com
