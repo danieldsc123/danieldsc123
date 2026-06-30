@@ -4,9 +4,9 @@
 
 ### Backend Developer | Data Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dscarvalho/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsiva.carvalho00@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/danieldsc123?style=for-the-badge)](https://github.com/danieldsc123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniel-dscarvalho/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:danielsiva.carvalho00@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/danieldsc123?style=for-the-badge)](https://github.com/danieldsc123)
 
 </div>
 
@@ -20,9 +20,9 @@ Atuei como estagiário de **DataOps na Natura**, trabalhando com pipelines de da
 
 Antes da tecnologia, construí minha trajetória no futebol profissional, experiência que fortaleceu disciplina, resiliência e trabalho em equipe — características que levo para todos os projetos.
 
-- 📍 Brasil
-- 💼 Aberto a oportunidades de **Estágio** e **Desenvolvedor Backend Júnior**
-- 🎯 Interesse em Backend Development e Data Engineering
+* 📍 Brasil
+* 💼 Aberto a oportunidades de **Estágio** e **Desenvolvedor Backend Júnior**
+* 🎯 Interesse em **Backend Development** e **Data Engineering**
 
 ---
 
@@ -30,27 +30,23 @@ Antes da tecnologia, construí minha trajetória no futebol profissional, experi
 
 ### Linguagens
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c" height="48"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-**Banco de Dados**
+### Tecnologias
 
-- SQL
-- SQLite
-
-### Backend & Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
 </p>
 
-**Também utilizo**
+### Data Engineering
 
-- Databricks
-- ETL / ELT
-- REST APIs
-- Pytest
+* Databricks
+* ETL / ELT
+* REST APIs
+* Pytest
 
 ---
 
@@ -62,12 +58,12 @@ Aplicação backend desenvolvida para simular custos de sustentação de workflo
 
 **Principais funcionalidades**
 
-- API REST com FastAPI
-- Persistência em SQLite
-- Histórico de simulações
-- Exportação CSV
-- Testes automatizados com Pytest
-- Containerização com Docker
+* API REST com FastAPI
+* Persistência em SQLite
+* Histórico de simulações
+* Exportação CSV
+* Testes automatizados com Pytest
+* Containerização com Docker
 
 🔗 **Repositório**
 
@@ -77,14 +73,14 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ## ⭐ Repositórios em Destaque
 
-| Repositório | Descrição |
-|------------|-----------|
-| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend para simulação de custos utilizando FastAPI, SQLite, Docker e testes automatizados. |
-| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)** | Desafio técnico utilizando Python, Supabase e Z-API para envio automatizado de mensagens. |
-| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)** | Shell Unix desenvolvida em C, com parsing, pipes, redirecionamentos e execução de comandos. |
-| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)** | Biblioteca própria em C utilizada como base para os projetos da 42 São Paulo. |
-| 📄 **[gnl](https://github.com/danieldsc123/gnl)** | Implementação da função Get Next Line com foco em gerenciamento de memória e file descriptors. |
-| 🔄 **Push Swap** *(em desenvolvimento)* | Algoritmos de ordenação utilizando duas pilhas com foco em estruturas de dados e otimização. |
+| Repositório                                                                                                 | Descrição                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend para simulação de custos utilizando FastAPI, SQLite, Docker e testes automatizados.             |
+| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)**                 | Desafio técnico utilizando Python, Supabase e Z-API para envio automatizado de mensagens.                         |
+| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)**                                       | Shell Unix desenvolvida em C, com parsing, pipes, redirecionamentos e execução de comandos.                       |
+| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)**                                                 | Biblioteca própria em C utilizada como base para os projetos da 42 São Paulo.                                     |
+| 📄 **[gnl](https://github.com/danieldsc123/gnl)**                                                           | Implementação da função Get Next Line com foco em gerenciamento de memória e file descriptors.                    |
+| 🔄 **Push Swap** *(em desenvolvimento)*                                                                     | Projeto focado em algoritmos de ordenação utilizando duas pilhas, com ênfase em estruturas de dados e otimização. |
 
 ---
 
@@ -114,8 +110,8 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ## 📫 Contato
 
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/daniel-dscarvalho/
+💼 **LinkedIn**
+https://www.linkedin.com/in/daniel-dscarvalho/
 
-- 📧 Email  
-  danielsiva.carvalho00@gmail.com
+📧 **Email**
+[danielsiva.carvalho00@gmail.com](mailto:danielsiva.carvalho00@gmail.com)
