@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou estudante de **Ciência da Computação** e aluno da **42 São Paulo**, com foco em **Backend Development** e **Data Engineering**.
 
@@ -26,18 +26,18 @@ Antes da tecnologia, construí minha trajetória no futebol profissional, experi
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Linguagens
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,c" height="48"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Tecnologias
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux"/>
 </p>
 
@@ -50,13 +50,13 @@ Antes da tecnologia, construí minha trajetória no futebol profissional, experi
 
 ---
 
-## 📌 Projeto em Destaque
+# 📌 Projeto em Destaque
 
-### 💰 Simulador de Custos de Sustentação de Workflows
+## 💰 Simulador de Custos de Sustentação de Workflows
 
-Aplicação backend desenvolvida para simular custos de sustentação de workflows corporativos, oferecendo API REST, persistência de dados, histórico de simulações, exportação CSV, testes automatizados e containerização.
+Aplicação backend desenvolvida para simular custos de sustentação de workflows corporativos, oferecendo API REST, persistência de dados, histórico de simulações, exportação CSV, testes automatizados e containerização com Docker.
 
-**Tecnologias**
+### Tecnologias
 
 * FastAPI
 * SQLite
@@ -69,29 +69,29 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ---
 
-## ⭐ Principais Repositórios
+# ⭐ Principais Repositórios
 
-| Repositório                                                                                                 | Descrição                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend utilizando FastAPI, SQLite, Docker e testes automatizados.                                                                                |
-| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)**                 | Integração entre Python, Supabase e Z-API para envio automatizado de mensagens personalizadas.                                                              |
-| ⚙️ **[push_swap-42](https://github.com/vgomes-p/push_swap-42)**                                             | Projeto desenvolvido na 42 São Paulo com foco em algoritmos de ordenação, estruturas de dados, otimização de operações e desenvolvimento colaborativo em C. |
-| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)**                                       | Shell Unix desenvolvida em C com parsing, pipes, redirecionamentos e execução de comandos.                                                                  |
-| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)**                                                 | Biblioteca própria em C utilizada como base para os projetos da 42 São Paulo.                                                                               |
-| 📄 **[gnl](https://github.com/danieldsc123/gnl)**                                                           | Implementação da função Get Next Line com foco em gerenciamento de memória e file descriptors.                                                              |
-
----
-
-## 📚 Outros Projetos
-
-| Repositório                                                    | Descrição                                                                                                   |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 🖨️ **[ft_printf](https://github.com/danieldsc123/ft_printf)** | Implementação própria da função `printf`, reproduzindo o comportamento da biblioteca padrão da linguagem C. |
-| 🕹️ **[so_long](https://github.com/danieldsc123/so_long)**     | Jogo 2D desenvolvido em C utilizando MiniLibX, com movimentação, renderização e validação de mapas.         |
+| Repositório                                                                                                 | Descrição                                                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend para simulação de custos de workflows utilizando FastAPI, SQLite, Docker e testes automatizados.                                     |
+| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)**                 | Desafio técnico focado em integração de APIs, utilizando Python, Supabase e Z-API para automatizar o envio de mensagens personalizadas via WhatsApp.   |
+| ⚙️ **[push_swap-42](https://github.com/vgomes-p/push_swap-42)**                                             | Projeto da 42 São Paulo voltado para algoritmos de ordenação, estruturas de dados e otimização de operações utilizando duas pilhas.                    |
+| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)**                                       | Implementação de um shell Unix em C, com parsing, pipes, redirecionamentos, variáveis de ambiente e execução de comandos.                              |
+| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)**                                                 | Biblioteca própria em C com reimplementação de funções da biblioteca padrão e listas encadeadas, utilizada como base para os projetos da 42 São Paulo. |
+| 📄 **[gnl](https://github.com/danieldsc123/gnl)**                                                           | Implementação da função Get Next Line, com foco em leitura eficiente de arquivos e gerenciamento dinâmico de memória.                                  |
 
 ---
 
-## 📊 GitHub Analytics
+# 📚 Outros Projetos
+
+| Repositório                                                    | Descrição                                                                                                              |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 🖨️ **[ft_printf](https://github.com/danieldsc123/ft_printf)** | Reimplementação da função `printf`, reproduzindo o comportamento da biblioteca padrão da linguagem C.                  |
+| 🕹️ **[so_long](https://github.com/danieldsc123/so_long)**     | Jogo 2D desenvolvido em C utilizando MiniLibX, com renderização gráfica, movimentação do jogador e validação de mapas. |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -105,7 +105,7 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <div align="center">
 
@@ -115,18 +115,22 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 💼 **LinkedIn**
+
 https://www.linkedin.com/in/daniel-dscarvalho/
 
 📧 **Email**
+
 [danielsiva.carvalho00@gmail.com](mailto:danielsiva.carvalho00@gmail.com)
 
 ---
 
 <div align="center">
 
-⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução em Backend e Engenharia de Dados.
+⭐ Obrigado pela visita!
+
+Fique à vontade para explorar meus projetos e acompanhar minha evolução em **Backend Development** e **Data Engineering**.
 
 </div>
