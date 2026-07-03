@@ -38,7 +38,7 @@ Antes da tecnologia, construí minha trajetória no futebol profissional, experi
 ### Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux"/>
 </p>
 
 ### Data Engineering
@@ -54,16 +54,14 @@ Antes da tecnologia, construí minha trajetória no futebol profissional, experi
 
 ### 💰 Simulador de Custos de Sustentação de Workflows
 
-Aplicação backend desenvolvida para simular custos de sustentação de workflows corporativos.
+Aplicação backend desenvolvida para simular custos de sustentação de workflows corporativos, oferecendo API REST, persistência de dados, histórico de simulações, exportação CSV, testes automatizados e containerização.
 
-**Principais funcionalidades**
+**Tecnologias**
 
-* API REST com FastAPI
-* Persistência em SQLite
-* Histórico de simulações
-* Exportação CSV
-* Testes automatizados com Pytest
-* Containerização com Docker
+* FastAPI
+* SQLite
+* Docker
+* Pytest
 
 🔗 **Repositório**
 
@@ -71,16 +69,25 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ---
 
-## ⭐ Repositórios em Destaque
+## ⭐ Principais Repositórios
 
-| Repositório                                                                                                 | Descrição                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend para simulação de custos utilizando FastAPI, SQLite, Docker e testes automatizados.             |
-| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)**                 | Desafio técnico utilizando Python, Supabase e Z-API para envio automatizado de mensagens.                         |
-| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)**                                       | Shell Unix desenvolvida em C, com parsing, pipes, redirecionamentos e execução de comandos.                       |
-| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)**                                                 | Biblioteca própria em C utilizada como base para os projetos da 42 São Paulo.                                     |
-| 📄 **[gnl](https://github.com/danieldsc123/gnl)**                                                           | Implementação da função Get Next Line com foco em gerenciamento de memória e file descriptors.                    |
-| 🔄 **Push Swap** *(em desenvolvimento)*                                                                     | Projeto focado em algoritmos de ordenação utilizando duas pilhas, com ênfase em estruturas de dados e otimização. |
+| Repositório                                                                                                 | Descrição                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend utilizando FastAPI, SQLite, Docker e testes automatizados.                                                                                |
+| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)**                 | Integração entre Python, Supabase e Z-API para envio automatizado de mensagens personalizadas.                                                              |
+| ⚙️ **[push_swap-42](https://github.com/vgomes-p/push_swap-42)**                                             | Projeto desenvolvido na 42 São Paulo com foco em algoritmos de ordenação, estruturas de dados, otimização de operações e desenvolvimento colaborativo em C. |
+| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)**                                       | Shell Unix desenvolvida em C com parsing, pipes, redirecionamentos e execução de comandos.                                                                  |
+| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)**                                                 | Biblioteca própria em C utilizada como base para os projetos da 42 São Paulo.                                                                               |
+| 📄 **[gnl](https://github.com/danieldsc123/gnl)**                                                           | Implementação da função Get Next Line com foco em gerenciamento de memória e file descriptors.                                                              |
+
+---
+
+## 📚 Outros Projetos
+
+| Repositório                                                    | Descrição                                                                                                   |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 🖨️ **[ft_printf](https://github.com/danieldsc123/ft_printf)** | Implementação própria da função `printf`, reproduzindo o comportamento da biblioteca padrão da linguagem C. |
+| 🕹️ **[so_long](https://github.com/danieldsc123/so_long)**     | Jogo 2D desenvolvido em C utilizando MiniLibX, com movimentação, renderização e validação de mapas.         |
 
 ---
 
@@ -115,3 +122,11 @@ https://www.linkedin.com/in/daniel-dscarvalho/
 
 📧 **Email**
 [danielsiva.carvalho00@gmail.com](mailto:danielsiva.carvalho00@gmail.com)
+
+---
+
+<div align="center">
+
+⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução em Backend e Engenharia de Dados.
+
+</div>
