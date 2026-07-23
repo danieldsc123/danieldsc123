@@ -14,15 +14,17 @@
 
 # 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** e aluno da **42 São Paulo**, com foco em **Backend Development** e **Data Engineering**.
+Sou estudante de **Ciência da Computação** e aluno da **42 São Paulo**, com foco em **Data Engineering** e **Backend Development**.
 
-Atuei como estagiário de **DataOps na Natura**, trabalhando com pipelines de dados, Databricks, Python e SQL para suportar processos corporativos.
+Atuei como estagiário de **DataOps na Natura**, onde trabalhei diretamente com **pipelines de dados**, **Databricks**, **Python** e **SQL**, dando suporte a processos corporativos orientados a dados — desde ingestão e transformação até garantia de qualidade e disponibilidade das informações.
+
+Tenho interesse crescente em construir soluções de dados escaláveis: ETL/ELT, modelagem, APIs REST para exposição de dados e automação de workflows.
 
 Antes da tecnologia, construí minha trajetória no futebol profissional, experiência que fortaleceu disciplina, resiliência e trabalho em equipe — características que levo para todos os projetos.
 
 * 📍 Brasil
-* 💼 Aberto a oportunidades de **Estágio** e **Desenvolvedor Backend Júnior**
-* 🎯 Interesse em **Backend Development** e **Data Engineering**
+* 💼 Aberto a oportunidades de **Estágio** e **Data Engineer Júnior**
+* 🎯 Foco principal em **Data Engineering** | Interesse complementar em **Backend Development**
 
 ---
 
