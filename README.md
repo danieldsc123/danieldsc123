@@ -133,6 +133,6 @@ https://www.linkedin.com/in/daniel-dscarvalho/
 
 ⭐ Obrigado pela visita!
 
-Fique à vontade para explorar meus projetos e acompanhar minha evolução em **Backend Development** e **Data Engineering**.
+Fique à vontade para explorar meus projetos e acompanhar minha evolução em **Data Engineering**.
 
 </div>
