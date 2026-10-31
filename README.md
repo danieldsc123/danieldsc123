@@ -71,25 +71,56 @@ https://github.com/danieldsc123/Simulador-de-custos-de-workflows
 
 ---
 
-# ⭐ Principais Repositórios
+# ⭐ Projetos profissionais
 
-| Repositório                                                                                                 | Descrição                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 💰 **[Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows)** | Aplicação backend para simulação de custos de workflows utilizando FastAPI, SQLite, Docker e testes automatizados.                                     |
-| 🐍 **[b2bflow-python-challenge](https://github.com/danieldsc123/b2bflow-python-challenge)**                 | Desafio técnico focado em integração de APIs, utilizando Python, Supabase e Z-API para automatizar o envio de mensagens personalizadas via WhatsApp.   |
-| ⚙️ **[push_swap-42](https://github.com/danieldsc123/push_swap-42)**                                             | Projeto da 42 São Paulo voltado para algoritmos de ordenação, estruturas de dados e otimização de operações utilizando duas pilhas.                    |
-| 🐚 **[minishell42sp](https://github.com/danieldsc123/minishell42sp)**                                       | Implementação de um shell Unix em C, com parsing, pipes, redirecionamentos, variáveis de ambiente e execução de comandos.                              |
-| 🔧 **[libft_42](https://github.com/danieldsc123/libft_42)**                                                 | Biblioteca própria em C com reimplementação de funções da biblioteca padrão e listas encadeadas, utilizada como base para os projetos da 42 São Paulo. |
-| 📄 **[gnl](https://github.com/danieldsc123/gnl)**                                                           | Implementação da função Get Next Line, com foco em leitura eficiente de arquivos e gerenciamento dinâmico de memória.                                  |
+| Projeto | Foco |
+|---|---|
+| [Simulador de Custos de Workflows](https://github.com/danieldsc123/Simulador-de-custos-de-workflows) | FastAPI, persistência, testes e Docker |
+| [b2bflow Python Challenge](https://github.com/danieldsc123/b2bflow-python-challenge) | Integração de APIs com Python, Supabase e Z-API |
+| [Client Management API](https://github.com/danieldsc123/backend-client-management) | Backend, clientes e webhooks |
 
 ---
 
-# 📚 Outros Projetos
+# 🎓 Formação 42 São Paulo
 
-| Repositório                                                    | Descrição                                                                                                              |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 🖨️ **[ft_printf](https://github.com/danieldsc123/ft_printf)** | Reimplementação da função `printf`, reproduzindo o comportamento da biblioteca padrão da linguagem C.                  |
-| 🕹️ **[so_long](https://github.com/danieldsc123/so_long)**     | Jogo 2D desenvolvido em C utilizando MiniLibX, com renderização gráfica, movimentação do jogador e validação de mapas. |
+Minha formação está separada em duas etapas: **42 ZIP**, iniciada em 2024, e **Common Core novo**, retomado em 2026. Os repositórios usam prefixos para facilitar a navegação:
+
+| Prefixo | Grupo |
+|---|---|
+| `42-zip-` | Currículo ZIP |
+| `42-core-` | Common Core novo |
+| `42-piscine-` | Piscine e preparação |
+| `42-estudos-` | Estudos para exames |
+
+### 42 ZIP — currículo anterior
+
+| Grupo temático | Repositórios públicos |
+|---|---|
+| Fundamentos em C | [Libft](https://github.com/danieldsc123/42-zip-libft) · [Get Next Line](https://github.com/danieldsc123/42-zip-gnl) |
+| Unix e processos | [Pipex](https://github.com/danieldsc123/42-zip-pipex) · [Minishell](https://github.com/danieldsc123/42-zip-minishell) |
+| Gráficos | [so_long](https://github.com/danieldsc123/42-zip-so-long) |
+
+### Common Core novo
+
+| Grupo temático | Repositórios públicos |
+|---|---|
+| Python 00–05 | [00](https://github.com/danieldsc123/42-core-python-00) · [01](https://github.com/danieldsc123/42-core-python-01) · [02](https://github.com/danieldsc123/42-core-python-02) · [03](https://github.com/danieldsc123/42-core-python-03) · [04](https://github.com/danieldsc123/42-core-python-04) · [05](https://github.com/danieldsc123/42-core-python-05) |
+| Python 06–10 | [06](https://github.com/danieldsc123/42-core-python-06) · [07](https://github.com/danieldsc123/42-core-python-07) · [08](https://github.com/danieldsc123/42-core-python-08) · [09](https://github.com/danieldsc123/42-core-python-09) · [10](https://github.com/danieldsc123/42-core-python-10) |
+| Algoritmos e concorrência | [A-Maze-ing](https://github.com/danieldsc123/42-core-a-maze-ing) · [Codexion](https://github.com/danieldsc123/42-core-codexion) · [Fly-in](https://github.com/danieldsc123/42-core-fly-in) |
+| Inteligência artificial | [Call Me Maybe](https://github.com/danieldsc123/42-core-call-me-maybe) |
+
+### Preparação e estudos
+
+| Grupo | Repositórios públicos |
+|---|---|
+| Piscine | [Rush 01](https://github.com/danieldsc123/42-piscine-rush-01) |
+| Exames | [Questões e exercícios](https://github.com/danieldsc123/42-estudos-questoes) |
+
+### Projetos com classificação de currículo em revisão
+
+[ft_printf](https://github.com/danieldsc123/printf_42) · [push_swap — colaboração](https://github.com/danieldsc123/push_swap-42)
+
+Os grupos acima organizam o portfólio por tema; não representam equivalências oficiais de nível nem comprovam aprovação acadêmica. O índice público lista somente repositórios públicos.
 
 ---
 
